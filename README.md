@@ -5,7 +5,8 @@ Il Calcolatore di segni zodiacali è un spftware opensource scritto in C++ e cal
 Per installare il software sarà necessario seguire i seguenti passaggi:
 1) Installare il file zip da Github
 
-![image](https://github.com/user-attachments/assets/75332da1-217e-4a71-80eb-626045e3fded)
+
+![image](https://github.com/user-attachments/assets/4bec085f-7e36-44e3-be28-fe0dc526160a)
 
    
 2)Estrarre il file zip
