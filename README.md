@@ -13,7 +13,7 @@ Per installare il software sarà necessario seguire i seguenti passaggi:
 ![image](https://github.com/user-attachments/assets/26a48e6b-42b9-4ae0-92b8-e4baf982637e)
 
 
-3) aprire la cartella estratta e fare doppio click sul file "build-run.bat"
+3) Aprire la cartella estratta e fare doppio click sul file "build-run.bat"
 
 ## ⌨️ Utilizzo
 1) All’avvio del programma verranno chiesti dei dati all’utente, che dovrà inserire dal terminale, i dati saranno il giorno di nascita e il mese.
