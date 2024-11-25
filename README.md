@@ -6,15 +6,15 @@ Il **Calcolatore di Segni Zodiacali** è un'applicazione open-source scritta in 
 
 Per installare il software sarà necessario seguire i seguenti passaggi:
 
-1. Scaricare il file .zip dal repository di GitHub.
+1. Scaricare il file release.zip che si trovala nelle releases di GitHub.
 
-   ![Scaricare il file zip](https://github.com/user-attachments/assets/4bec085f-7e36-44e3-be28-fe0dc526160a)
+![image](https://github.com/user-attachments/assets/34815d3f-60dc-444c-97df-32803624b573)
 
 2. Estrarre il contenuto del file .zip.
 
    ![Estrarre il file zip](https://github.com/user-attachments/assets/26a48e6b-42b9-4ae0-92b8-e4baf982637e)
 
-3. Aprire la cartella estratta e fare doppio click sul file `build-run.bat` per avviare il programma. Seguire le istruzioni nelle foto sottostanti per avviare il software.
+3. Aprire la cartella estratta e fare doppio click sul file `start.bat` per avviare il programma. Seguire le istruzioni nelle foto sottostanti per avviare il software.
 
    ![Esegui build-run.bat](https://github.com/user-attachments/assets/2d9c09e1-a658-45fe-89b7-a7dcb2d46c77)
 
